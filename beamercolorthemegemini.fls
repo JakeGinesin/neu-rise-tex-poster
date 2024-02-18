@@ -1,0 +1,5 @@
+PWD /home/synchronous/code/rise-2024-poster/main/gemini
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT ./beamercolorthemegemini.sty
+OUTPUT ./beamercolorthemegemini.log
