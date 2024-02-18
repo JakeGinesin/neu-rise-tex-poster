@@ -3,4 +3,5 @@ A LaTeX poster template for Northeastern's Research and Creative Endeavor, Innov
 # Use
 If you want to edit this on your own machine, use the `xelatex` compiler, which can be installed with the `texlive-xetex` package. Alternatively, you can import this directly into overleaf.
 
+# Preview
 ![](images/example.png)
